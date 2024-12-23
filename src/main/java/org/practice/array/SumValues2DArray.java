@@ -1,4 +1,4 @@
-package org.example.array;
+package org.practice.array;
 
 //Richest Customer Wealth
 //You are given an m x n integer grid accounts where accounts [i][j] is the amount of money the ith

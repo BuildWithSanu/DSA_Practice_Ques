@@ -1,4 +1,4 @@
-package org.example.array;
+package org.practice.array;
 
 public class RunningSum1DArray {
     public static void main(String[] args) {
